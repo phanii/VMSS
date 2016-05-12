@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\menu\\vmsmain.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\menu\\vmsmain.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\menu\\myprofilemenu.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\menu\\myprofilemenu.xml"
+    }
+]

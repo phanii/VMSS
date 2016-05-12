@@ -1,0 +1,1483 @@
+[
+    {
+        "outputFile": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\values-zh\\values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endLine": 14,
+                    "endColumn": 19,
+                    "endOffset": 479
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endLine": 16,
+                        "endColumn": 19,
+                        "endOffset": 610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 484,
+                    "endLine": 22,
+                    "endColumn": 19,
+                    "endOffset": 690
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 615,
+                        "endLine": 24,
+                        "endColumn": 19,
+                        "endOffset": 821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 695,
+                    "endLine": 29,
+                    "endColumn": 19,
+                    "endOffset": 900
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 826,
+                        "endLine": 31,
+                        "endColumn": 19,
+                        "endOffset": 1031
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 905,
+                    "endLine": 37,
+                    "endColumn": 19,
+                    "endOffset": 1116
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1036,
+                        "endLine": 39,
+                        "endColumn": 19,
+                        "endOffset": 1247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1121,
+                    "endLine": 44,
+                    "endColumn": 19,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1252,
+                        "endLine": 46,
+                        "endColumn": 19,
+                        "endOffset": 1459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endLine": 51,
+                    "endColumn": 19,
+                    "endOffset": 1539
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1464,
+                        "endLine": 53,
+                        "endColumn": 19,
+                        "endOffset": 1670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1544,
+                    "endLine": 58,
+                    "endColumn": 19,
+                    "endOffset": 1749
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 1675,
+                        "endLine": 60,
+                        "endColumn": 19,
+                        "endOffset": 1880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 1754,
+                    "endLine": 62,
+                    "endColumn": 14,
+                    "endOffset": 1902
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2017,
+                        "endLine": 66,
+                        "endColumn": 14,
+                        "endOffset": 2165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 1907,
+                    "endLine": 66,
+                    "endColumn": 14,
+                    "endOffset": 2065
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 2170,
+                        "endLine": 70,
+                        "endColumn": 14,
+                        "endOffset": 2328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 2070,
+                    "endLine": 70,
+                    "endColumn": 14,
+                    "endOffset": 2277
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2333,
+                        "endLine": 74,
+                        "endColumn": 14,
+                        "endOffset": 2540
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 2282,
+                    "endLine": 76,
+                    "endColumn": 14,
+                    "endOffset": 2571
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 2545,
+                        "endLine": 80,
+                        "endColumn": 14,
+                        "endOffset": 2834
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 2576,
+                    "endLine": 82,
+                    "endColumn": 14,
+                    "endOffset": 2867
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 2839,
+                        "endLine": 86,
+                        "endColumn": 14,
+                        "endOffset": 3130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2872,
+                    "endLine": 88,
+                    "endColumn": 14,
+                    "endOffset": 3162
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 3135,
+                        "endLine": 92,
+                        "endColumn": 14,
+                        "endOffset": 3425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 3167,
+                    "endLine": 94,
+                    "endColumn": 14,
+                    "endOffset": 3457
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 3430,
+                        "endLine": 98,
+                        "endColumn": 14,
+                        "endOffset": 3720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 3462,
+                    "endLine": 98,
+                    "endColumn": 14,
+                    "endOffset": 3691
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 3725,
+                        "endLine": 102,
+                        "endColumn": 14,
+                        "endOffset": 3954
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 3696,
+                    "endColumn": 86,
+                    "endOffset": 3778
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 3959,
+                        "endColumn": 86,
+                        "endOffset": 4041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3783,
+                    "endColumn": 35,
+                    "endOffset": 3814
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 4046,
+                        "endColumn": 35,
+                        "endOffset": 4077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3819,
+                    "endColumn": 65,
+                    "endOffset": 3880
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 4082,
+                        "endColumn": 65,
+                        "endOffset": 4143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3885,
+                    "endColumn": 58,
+                    "endOffset": 3939
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 4148,
+                        "endColumn": 58,
+                        "endOffset": 4202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3944,
+                    "endColumn": 46,
+                    "endOffset": 3986
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 4207,
+                        "endColumn": 46,
+                        "endOffset": 4249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 3991,
+                    "endColumn": 41,
+                    "endOffset": 4028
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 4254,
+                        "endColumn": 41,
+                        "endOffset": 4291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 4033,
+                    "endColumn": 70,
+                    "endOffset": 4099
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 4296,
+                        "endColumn": 70,
+                        "endOffset": 4362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 4104,
+                    "endColumn": 72,
+                    "endOffset": 4172
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 4367,
+                        "endColumn": 72,
+                        "endOffset": 4435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 4177,
+                    "endColumn": 57,
+                    "endOffset": 4230
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 4440,
+                        "endColumn": 57,
+                        "endOffset": 4493
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 4235,
+                    "endColumn": 56,
+                    "endOffset": 4287
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 4498,
+                        "endColumn": 56,
+                        "endOffset": 4550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 4292,
+                    "endColumn": 52,
+                    "endOffset": 4340
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 4555,
+                        "endColumn": 52,
+                        "endOffset": 4603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 4345,
+                    "endColumn": 54,
+                    "endOffset": 4395
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 4608,
+                        "endColumn": 54,
+                        "endOffset": 4658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 4400,
+                    "endColumn": 54,
+                    "endOffset": 4450
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 4663,
+                        "endColumn": 54,
+                        "endOffset": 4713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 4455,
+                    "endColumn": 58,
+                    "endOffset": 4509
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 4718,
+                        "endColumn": 58,
+                        "endOffset": 4772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 4514,
+                    "endColumn": 41,
+                    "endOffset": 4551
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 4777,
+                        "endColumn": 41,
+                        "endOffset": 4814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 4556,
+                    "endColumn": 54,
+                    "endOffset": 4606
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 4819,
+                        "endColumn": 54,
+                        "endOffset": 4869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 4611,
+                    "endColumn": 50,
+                    "endOffset": 4657
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 4874,
+                        "endColumn": 50,
+                        "endOffset": 4920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 4662,
+                    "endColumn": 55,
+                    "endOffset": 4713
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 4925,
+                        "endColumn": 55,
+                        "endOffset": 4976
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 4718,
+                    "endColumn": 55,
+                    "endOffset": 4769
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 4981,
+                        "endColumn": 55,
+                        "endOffset": 5032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 4774,
+                    "endColumn": 65,
+                    "endOffset": 4835
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 5037,
+                        "endColumn": 65,
+                        "endOffset": 5098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 4840,
+                    "endColumn": 60,
+                    "endOffset": 4896
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 5103,
+                        "endColumn": 60,
+                        "endOffset": 5159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 4901,
+                    "endColumn": 43,
+                    "endOffset": 4940
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5164,
+                        "endColumn": 43,
+                        "endOffset": 5203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 4945,
+                    "endColumn": 56,
+                    "endOffset": 4997
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 5208,
+                        "endColumn": 56,
+                        "endOffset": 5260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 5002,
+                    "endColumn": 37,
+                    "endOffset": 5035
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 5265,
+                        "endColumn": 37,
+                        "endOffset": 5298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 5040,
+                    "endColumn": 38,
+                    "endOffset": 5074
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 5303,
+                        "endColumn": 38,
+                        "endOffset": 5337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 5079,
+                    "endColumn": 51,
+                    "endOffset": 5126
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 5342,
+                        "endColumn": 51,
+                        "endOffset": 5389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 5131,
+                    "endColumn": 44,
+                    "endOffset": 5171
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 5394,
+                        "endColumn": 44,
+                        "endOffset": 5434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 5176,
+                    "endColumn": 55,
+                    "endOffset": 5227
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 5439,
+                        "endColumn": 55,
+                        "endOffset": 5490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 5232,
+                    "endColumn": 56,
+                    "endOffset": 5284
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 5495,
+                        "endColumn": 56,
+                        "endOffset": 5547
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 5289,
+                    "endColumn": 53,
+                    "endOffset": 5338
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 5552,
+                        "endColumn": 53,
+                        "endOffset": 5601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 5343,
+                    "endColumn": 55,
+                    "endOffset": 5394
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 5606,
+                        "endColumn": 55,
+                        "endOffset": 5657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 5399,
+                    "endColumn": 44,
+                    "endOffset": 5439
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 5662,
+                        "endColumn": 44,
+                        "endOffset": 5702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 5444,
+                    "endColumn": 41,
+                    "endOffset": 5481
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 5707,
+                        "endColumn": 41,
+                        "endOffset": 5744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 5486,
+                    "endColumn": 62,
+                    "endOffset": 5544
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 5749,
+                        "endColumn": 62,
+                        "endOffset": 5807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 5549,
+                    "endColumn": 57,
+                    "endOffset": 5602
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 5812,
+                        "endColumn": 57,
+                        "endOffset": 5865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 5607,
+                    "endColumn": 62,
+                    "endOffset": 5665
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 5870,
+                        "endColumn": 62,
+                        "endOffset": 5928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 5670,
+                    "endColumn": 78,
+                    "endOffset": 5744
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 5933,
+                        "endColumn": 78,
+                        "endOffset": 6007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 5749,
+                    "endColumn": 56,
+                    "endOffset": 5801
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 6012,
+                        "endColumn": 56,
+                        "endOffset": 6064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 5806,
+                    "endColumn": 67,
+                    "endOffset": 5869
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 6069,
+                        "endColumn": 67,
+                        "endOffset": 6132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 5874,
+                    "endColumn": 49,
+                    "endOffset": 5919
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 6137,
+                        "endColumn": 49,
+                        "endOffset": 6182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 5924,
+                    "endColumn": 41,
+                    "endOffset": 5961
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 6187,
+                        "endColumn": 41,
+                        "endOffset": 6224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 5966,
+                    "endColumn": 61,
+                    "endOffset": 6023
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 6229,
+                        "endColumn": 61,
+                        "endOffset": 6286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 6028,
+                    "endColumn": 43,
+                    "endOffset": 6067
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 145,
+                        "startColumn": 4,
+                        "startOffset": 6291,
+                        "endColumn": 43,
+                        "endOffset": 6330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 142,
+                    "startColumn": 4,
+                    "startOffset": 6072,
+                    "endColumn": 55,
+                    "endOffset": 6123
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 146,
+                        "startColumn": 4,
+                        "startOffset": 6335,
+                        "endColumn": 55,
+                        "endOffset": 6386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 143,
+                    "startColumn": 4,
+                    "startOffset": 6128,
+                    "endColumn": 43,
+                    "endOffset": 6167
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 6391,
+                        "endColumn": 43,
+                        "endOffset": 6430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 144,
+                    "startColumn": 4,
+                    "startOffset": 6172,
+                    "endColumn": 45,
+                    "endOffset": 6213
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 6435,
+                        "endColumn": 45,
+                        "endOffset": 6476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 6218,
+                    "endColumn": 47,
+                    "endOffset": 6261
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 6481,
+                        "endColumn": 47,
+                        "endOffset": 6524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 146,
+                    "startColumn": 4,
+                    "startOffset": 6266,
+                    "endColumn": 43,
+                    "endOffset": 6305
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 6529,
+                        "endColumn": 43,
+                        "endOffset": 6568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 147,
+                    "startColumn": 4,
+                    "startOffset": 6310,
+                    "endColumn": 40,
+                    "endOffset": 6346
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 151,
+                        "startColumn": 4,
+                        "startOffset": 6573,
+                        "endColumn": 40,
+                        "endOffset": 6609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 148,
+                    "startColumn": 4,
+                    "startOffset": 6351,
+                    "endColumn": 39,
+                    "endOffset": 6386
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 6614,
+                        "endColumn": 39,
+                        "endOffset": 6649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 6391,
+                    "endColumn": 52,
+                    "endOffset": 6439
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 6654,
+                        "endColumn": 52,
+                        "endOffset": 6702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 6444,
+                    "endColumn": 52,
+                    "endOffset": 6492
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 6707,
+                        "endColumn": 52,
+                        "endOffset": 6755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 6497,
+                    "endColumn": 53,
+                    "endOffset": 6546
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 6760,
+                        "endColumn": 53,
+                        "endOffset": 6809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 6551,
+                    "endColumn": 56,
+                    "endOffset": 6603
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 6814,
+                        "endColumn": 56,
+                        "endOffset": 6866
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 6608,
+                    "endColumn": 47,
+                    "endOffset": 6651
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 157,
+                        "startColumn": 4,
+                        "startOffset": 6871,
+                        "endColumn": 47,
+                        "endOffset": 6914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 6656,
+                    "endColumn": 44,
+                    "endOffset": 6696
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 6919,
+                        "endColumn": 44,
+                        "endOffset": 6959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 155,
+                    "startColumn": 4,
+                    "startOffset": 6701,
+                    "endColumn": 43,
+                    "endOffset": 6740
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 6964,
+                        "endColumn": 43,
+                        "endOffset": 7003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 6745,
+                    "endColumn": 36,
+                    "endOffset": 6777
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 7008,
+                        "endColumn": 36,
+                        "endOffset": 7040
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 6782,
+                    "endColumn": 56,
+                    "endOffset": 6834
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 7045,
+                        "endColumn": 56,
+                        "endOffset": 7097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 158,
+                    "startColumn": 4,
+                    "startOffset": 6839,
+                    "endColumn": 43,
+                    "endOffset": 6878
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-zh\\values-zh.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 7102,
+                        "endColumn": 43,
+                        "endOffset": 7141
+                    }
+                }
+            }
+        ]
+    }
+]

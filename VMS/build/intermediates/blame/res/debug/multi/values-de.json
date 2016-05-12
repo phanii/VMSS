@@ -1,0 +1,1928 @@
+[
+    {
+        "outputFile": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\values-de\\values-de.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 292
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endLine": 9,
+                        "endColumn": 19,
+                        "endOffset": 423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 297,
+                    "endLine": 13,
+                    "endColumn": 19,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 428,
+                        "endLine": 15,
+                        "endColumn": 19,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endLine": 19,
+                    "endColumn": 19,
+                    "endOffset": 737
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 742,
+                    "endLine": 26,
+                    "endColumn": 19,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endLine": 28,
+                        "endColumn": 19,
+                        "endOffset": 1146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endLine": 33,
+                    "endColumn": 19,
+                    "endOffset": 1288
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1151,
+                        "endLine": 35,
+                        "endColumn": 19,
+                        "endOffset": 1419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1293,
+                    "endLine": 40,
+                    "endColumn": 19,
+                    "endOffset": 1566
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1424,
+                        "endLine": 42,
+                        "endColumn": 19,
+                        "endOffset": 1697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1571,
+                    "endLine": 47,
+                    "endColumn": 19,
+                    "endOffset": 1844
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1702,
+                        "endLine": 49,
+                        "endColumn": 19,
+                        "endOffset": 1975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 1849,
+                    "endLine": 54,
+                    "endColumn": 19,
+                    "endOffset": 2139
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endLine": 56,
+                        "endColumn": 19,
+                        "endOffset": 2270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 2144,
+                    "endLine": 61,
+                    "endColumn": 19,
+                    "endOffset": 2423
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2275,
+                        "endLine": 63,
+                        "endColumn": 19,
+                        "endOffset": 2554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 2428,
+                    "endLine": 68,
+                    "endColumn": 19,
+                    "endOffset": 2706
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2559,
+                        "endLine": 70,
+                        "endColumn": 19,
+                        "endOffset": 2837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2711,
+                    "endLine": 124,
+                    "endColumn": 19,
+                    "endOffset": 4659
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 2842,
+                        "endLine": 126,
+                        "endColumn": 19,
+                        "endOffset": 4790
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 4664,
+                    "endLine": 163,
+                    "endColumn": 19,
+                    "endOffset": 6122
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 4795,
+                        "endLine": 165,
+                        "endColumn": 19,
+                        "endOffset": 6253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 6127,
+                    "endLine": 167,
+                    "endColumn": 14,
+                    "endOffset": 6286
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 6390,
+                        "endLine": 171,
+                        "endColumn": 14,
+                        "endOffset": 6549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 6291,
+                    "endLine": 171,
+                    "endColumn": 14,
+                    "endOffset": 6452
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 172,
+                        "startColumn": 4,
+                        "startOffset": 6554,
+                        "endLine": 175,
+                        "endColumn": 14,
+                        "endOffset": 6715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 6457,
+                    "endLine": 175,
+                    "endColumn": 14,
+                    "endOffset": 6681
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 176,
+                        "startColumn": 4,
+                        "startOffset": 6720,
+                        "endLine": 179,
+                        "endColumn": 14,
+                        "endOffset": 6944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 6686,
+                    "endLine": 181,
+                    "endColumn": 14,
+                    "endOffset": 6987
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 180,
+                        "startColumn": 4,
+                        "startOffset": 6949,
+                        "endLine": 185,
+                        "endColumn": 14,
+                        "endOffset": 7250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 6992,
+                    "endLine": 187,
+                    "endColumn": 14,
+                    "endOffset": 7299
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 7255,
+                        "endLine": 191,
+                        "endColumn": 14,
+                        "endOffset": 7562
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 7304,
+                    "endLine": 193,
+                    "endColumn": 14,
+                    "endOffset": 7609
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 7567,
+                        "endLine": 197,
+                        "endColumn": 14,
+                        "endOffset": 7872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 7614,
+                    "endLine": 199,
+                    "endColumn": 14,
+                    "endOffset": 7918
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 7877,
+                        "endLine": 203,
+                        "endColumn": 14,
+                        "endOffset": 8181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 7923,
+                    "endLine": 203,
+                    "endColumn": 14,
+                    "endOffset": 8173
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 8186,
+                        "endLine": 207,
+                        "endColumn": 14,
+                        "endOffset": 8436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 8178,
+                    "endColumn": 104,
+                    "endOffset": 8278
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 104,
+                        "endOffset": 329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 8283,
+                    "endColumn": 107,
+                    "endOffset": 8386
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 334,
+                        "endColumn": 107,
+                        "endOffset": 437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 8391,
+                    "endColumn": 122,
+                    "endOffset": 8509
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 442,
+                        "endColumn": 122,
+                        "endOffset": 560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 8514,
+                    "endColumn": 97,
+                    "endOffset": 8607
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 565,
+                        "endColumn": 97,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 8612,
+                    "endColumn": 111,
+                    "endOffset": 8719
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 111,
+                        "endOffset": 770
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 8724,
+                    "endColumn": 85,
+                    "endOffset": 8805
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 775,
+                        "endColumn": 85,
+                        "endOffset": 856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 8810,
+                    "endColumn": 104,
+                    "endOffset": 8910
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 104,
+                        "endOffset": 961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 8915,
+                    "endColumn": 114,
+                    "endOffset": 9025
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 966,
+                        "endColumn": 114,
+                        "endOffset": 1076
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 9030,
+                    "endColumn": 76,
+                    "endOffset": 9102
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1081,
+                        "endColumn": 76,
+                        "endOffset": 1153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 9107,
+                    "endColumn": 75,
+                    "endOffset": 9178
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1158,
+                        "endColumn": 75,
+                        "endOffset": 1229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 9183,
+                    "endColumn": 81,
+                    "endOffset": 9260
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1234,
+                        "endColumn": 81,
+                        "endOffset": 1311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 9265,
+                    "endColumn": 110,
+                    "endOffset": 9371
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1316,
+                        "endColumn": 110,
+                        "endOffset": 1422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 9376,
+                    "endColumn": 102,
+                    "endOffset": 9474
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1427,
+                        "endColumn": 102,
+                        "endOffset": 1525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 9479,
+                    "endColumn": 98,
+                    "endOffset": 9573
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1530,
+                        "endColumn": 98,
+                        "endOffset": 1624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 9578,
+                    "endColumn": 110,
+                    "endOffset": 9684
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1629,
+                        "endColumn": 110,
+                        "endOffset": 1735
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 9689,
+                    "endColumn": 101,
+                    "endOffset": 9786
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1740,
+                        "endColumn": 101,
+                        "endOffset": 1837
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 9791,
+                    "endColumn": 106,
+                    "endOffset": 9893
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1842,
+                        "endColumn": 106,
+                        "endOffset": 1944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 9898,
+                    "endColumn": 121,
+                    "endOffset": 10015
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1949,
+                        "endColumn": 121,
+                        "endOffset": 2066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 10020,
+                    "endColumn": 101,
+                    "endOffset": 10117
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2071,
+                        "endColumn": 101,
+                        "endOffset": 2168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 10122,
+                    "endColumn": 95,
+                    "endOffset": 10213
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 8441,
+                        "endColumn": 95,
+                        "endOffset": 8532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 10218,
+                    "endColumn": 56,
+                    "endOffset": 10270
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\DailyNickle\\aFileChooser\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 56,
+                        "endOffset": 107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 10275,
+                    "endColumn": 37,
+                    "endOffset": 10308
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 8537,
+                        "endColumn": 37,
+                        "endOffset": 8570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 10313,
+                    "endColumn": 66,
+                    "endOffset": 10375
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 8575,
+                        "endColumn": 66,
+                        "endOffset": 8637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 10380,
+                    "endColumn": 53,
+                    "endOffset": 10429
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 8642,
+                        "endColumn": 53,
+                        "endOffset": 8691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 10434,
+                    "endColumn": 45,
+                    "endOffset": 10475
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 8696,
+                        "endColumn": 45,
+                        "endOffset": 8737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 10480,
+                    "endColumn": 57,
+                    "endOffset": 10533
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\DailyNickle\\aFileChooser\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 112,
+                        "endColumn": 57,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 10538,
+                    "endColumn": 71,
+                    "endOffset": 10605
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 213,
+                        "startColumn": 4,
+                        "startOffset": 8742,
+                        "endColumn": 71,
+                        "endOffset": 8809
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 10610,
+                    "endColumn": 77,
+                    "endOffset": 10683
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\DailyNickle\\aFileChooser\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 77,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 10688,
+                    "endColumn": 72,
+                    "endOffset": 10756
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 8814,
+                        "endColumn": 72,
+                        "endOffset": 8882
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 10761,
+                    "endColumn": 57,
+                    "endOffset": 10814
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 8887,
+                        "endColumn": 57,
+                        "endOffset": 8940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 10819,
+                    "endColumn": 70,
+                    "endOffset": 10885
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 8945,
+                        "endColumn": 70,
+                        "endOffset": 9011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 10890,
+                    "endColumn": 52,
+                    "endOffset": 10938
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 9016,
+                        "endColumn": 52,
+                        "endOffset": 9064
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 10943,
+                    "endColumn": 54,
+                    "endOffset": 10993
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 9069,
+                        "endColumn": 54,
+                        "endOffset": 9119
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 10998,
+                    "endColumn": 54,
+                    "endOffset": 11048
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 9124,
+                        "endColumn": 54,
+                        "endOffset": 9174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 11053,
+                    "endColumn": 73,
+                    "endOffset": 11122
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 4,
+                        "startOffset": 9179,
+                        "endColumn": 73,
+                        "endOffset": 9248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 11127,
+                    "endColumn": 41,
+                    "endOffset": 11164
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 9253,
+                        "endColumn": 41,
+                        "endOffset": 9290
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 11169,
+                    "endColumn": 59,
+                    "endOffset": 11224
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 9295,
+                        "endColumn": 59,
+                        "endOffset": 9350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 11229,
+                    "endColumn": 60,
+                    "endOffset": 11285
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 9355,
+                        "endColumn": 60,
+                        "endOffset": 9411
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 11290,
+                    "endColumn": 87,
+                    "endOffset": 11373
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 224,
+                        "startColumn": 4,
+                        "startOffset": 9416,
+                        "endColumn": 87,
+                        "endOffset": 9499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 11378,
+                    "endColumn": 86,
+                    "endOffset": 11460
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 9504,
+                        "endColumn": 86,
+                        "endOffset": 9586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 11465,
+                    "endColumn": 89,
+                    "endOffset": 11550
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 226,
+                        "startColumn": 4,
+                        "startOffset": 9591,
+                        "endColumn": 89,
+                        "endOffset": 9676
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 11555,
+                    "endColumn": 75,
+                    "endOffset": 11626
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 4,
+                        "startOffset": 9681,
+                        "endColumn": 75,
+                        "endOffset": 9752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 11631,
+                    "endColumn": 43,
+                    "endOffset": 11670
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 228,
+                        "startColumn": 4,
+                        "startOffset": 9757,
+                        "endColumn": 43,
+                        "endOffset": 9796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 11675,
+                    "endColumn": 61,
+                    "endOffset": 11732
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 4,
+                        "startOffset": 9801,
+                        "endColumn": 61,
+                        "endOffset": 9858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 11737,
+                    "endColumn": 41,
+                    "endOffset": 11774
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 9863,
+                        "endColumn": 41,
+                        "endOffset": 9900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 11779,
+                    "endColumn": 45,
+                    "endOffset": 11820
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 9905,
+                        "endColumn": 45,
+                        "endOffset": 9946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 11825,
+                    "endColumn": 70,
+                    "endOffset": 11891
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 9951,
+                        "endColumn": 70,
+                        "endOffset": 10017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 11896,
+                    "endColumn": 49,
+                    "endOffset": 11941
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 233,
+                        "startColumn": 4,
+                        "startOffset": 10022,
+                        "endColumn": 49,
+                        "endOffset": 10067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 11946,
+                    "endColumn": 55,
+                    "endOffset": 11997
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 234,
+                        "startColumn": 4,
+                        "startOffset": 10072,
+                        "endColumn": 55,
+                        "endOffset": 10123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 12002,
+                    "endColumn": 56,
+                    "endOffset": 12054
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 235,
+                        "startColumn": 4,
+                        "startOffset": 10128,
+                        "endColumn": 56,
+                        "endOffset": 10180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 12059,
+                    "endColumn": 53,
+                    "endOffset": 12108
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 4,
+                        "startOffset": 10185,
+                        "endColumn": 53,
+                        "endOffset": 10234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 12113,
+                    "endColumn": 60,
+                    "endOffset": 12169
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 4,
+                        "startOffset": 10239,
+                        "endColumn": 60,
+                        "endOffset": 10295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 12174,
+                    "endColumn": 51,
+                    "endOffset": 12221
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 4,
+                        "startOffset": 10300,
+                        "endColumn": 51,
+                        "endOffset": 10347
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 12226,
+                    "endColumn": 41,
+                    "endOffset": 12263
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 10352,
+                        "endColumn": 41,
+                        "endOffset": 10389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 12268,
+                    "endColumn": 64,
+                    "endOffset": 12328
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 240,
+                        "startColumn": 4,
+                        "startOffset": 10394,
+                        "endColumn": 64,
+                        "endOffset": 10454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 12333,
+                    "endColumn": 77,
+                    "endOffset": 12406
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 241,
+                        "startColumn": 4,
+                        "startOffset": 10459,
+                        "endColumn": 77,
+                        "endOffset": 10532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 12411,
+                    "endColumn": 83,
+                    "endOffset": 12490
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 10537,
+                        "endColumn": 83,
+                        "endOffset": 10616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 12495,
+                    "endColumn": 77,
+                    "endOffset": 12568
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 10621,
+                        "endColumn": 77,
+                        "endOffset": 10694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 12573,
+                    "endColumn": 86,
+                    "endOffset": 12655
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 244,
+                        "startColumn": 4,
+                        "startOffset": 10699,
+                        "endColumn": 86,
+                        "endOffset": 10781
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 12660,
+                    "endColumn": 45,
+                    "endOffset": 12701
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 10786,
+                        "endColumn": 45,
+                        "endOffset": 10827
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 12706,
+                    "endColumn": 77,
+                    "endOffset": 12779
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 246,
+                        "startColumn": 4,
+                        "startOffset": 10832,
+                        "endColumn": 77,
+                        "endOffset": 10905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 12784,
+                    "endColumn": 43,
+                    "endOffset": 12823
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 247,
+                        "startColumn": 4,
+                        "startOffset": 10910,
+                        "endColumn": 43,
+                        "endOffset": 10949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 12828,
+                    "endColumn": 62,
+                    "endOffset": 12886
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 248,
+                        "startColumn": 4,
+                        "startOffset": 10954,
+                        "endColumn": 62,
+                        "endOffset": 11012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 12891,
+                    "endColumn": 62,
+                    "endOffset": 12949
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 4,
+                        "startOffset": 11017,
+                        "endColumn": 62,
+                        "endOffset": 11075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 12954,
+                    "endColumn": 58,
+                    "endOffset": 13008
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 250,
+                        "startColumn": 4,
+                        "startOffset": 11080,
+                        "endColumn": 58,
+                        "endOffset": 11134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 13013,
+                    "endColumn": 60,
+                    "endOffset": 13069
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 11139,
+                        "endColumn": 60,
+                        "endOffset": 11195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 13074,
+                    "endColumn": 54,
+                    "endOffset": 13124
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 252,
+                        "startColumn": 4,
+                        "startOffset": 11200,
+                        "endColumn": 54,
+                        "endOffset": 11250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 13129,
+                    "endColumn": 100,
+                    "endOffset": 13225
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2173,
+                        "endColumn": 100,
+                        "endOffset": 2269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 13230,
+                    "endColumn": 70,
+                    "endOffset": 13296
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\DailyNickle\\aFileChooser\\unspecified\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 248,
+                        "endColumn": 70,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 13301,
+                    "endColumn": 42,
+                    "endOffset": 13339
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 253,
+                        "startColumn": 4,
+                        "startOffset": 11255,
+                        "endColumn": 42,
+                        "endOffset": 11293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 13344,
+                    "endColumn": 40,
+                    "endOffset": 13380
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 254,
+                        "startColumn": 4,
+                        "startOffset": 11298,
+                        "endColumn": 40,
+                        "endOffset": 11334
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 13385,
+                    "endColumn": 52,
+                    "endOffset": 13433
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 255,
+                        "startColumn": 4,
+                        "startOffset": 11339,
+                        "endColumn": 52,
+                        "endOffset": 11387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 13438,
+                    "endColumn": 52,
+                    "endOffset": 13486
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 256,
+                        "startColumn": 4,
+                        "startOffset": 11392,
+                        "endColumn": 52,
+                        "endOffset": 11440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 13491,
+                    "endColumn": 53,
+                    "endOffset": 13540
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 257,
+                        "startColumn": 4,
+                        "startOffset": 11445,
+                        "endColumn": 53,
+                        "endOffset": 11494
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 13545,
+                    "endColumn": 56,
+                    "endOffset": 13597
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 258,
+                        "startColumn": 4,
+                        "startOffset": 11499,
+                        "endColumn": 56,
+                        "endOffset": 11551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 13602,
+                    "endColumn": 48,
+                    "endOffset": 13646
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 4,
+                        "startOffset": 11556,
+                        "endColumn": 48,
+                        "endOffset": 11600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 13651,
+                    "endColumn": 39,
+                    "endOffset": 13686
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 260,
+                        "startColumn": 4,
+                        "startOffset": 11605,
+                        "endColumn": 39,
+                        "endOffset": 11640
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 13691,
+                    "endColumn": 63,
+                    "endOffset": 13750
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 261,
+                        "startColumn": 4,
+                        "startOffset": 11645,
+                        "endColumn": 63,
+                        "endOffset": 11704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 13755,
+                    "endColumn": 49,
+                    "endOffset": 13800
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-de\\values-de.xml",
+                    "position": {
+                        "startLine": 262,
+                        "startColumn": 4,
+                        "startOffset": 11709,
+                        "endColumn": 49,
+                        "endOffset": 11754
+                    }
+                }
+            }
+        ]
+    }
+]

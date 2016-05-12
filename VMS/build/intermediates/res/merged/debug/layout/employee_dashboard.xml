@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#95c11f"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="@string/apptstatus"
+        android:textColor="#ffffff"
+        android:textSize="15sp"
+        android:visibility="gone" />
+
+    <!-- <include layout="@layout/steps" /> -->
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="2dp">
+         <RelativeLayout
+             android:layout_width="match_parent"
+             android:layout_height="53dp"
+             android:background="@color/actionbarcolor"
+             android:id="@+id/spinner_empdashboard_actions_rl">
+
+        <Spinner
+            android:id="@+id/spinner_empdashboard_actions"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:paddingLeft="4dp"
+            android:gravity="center_vertical"
+            android:layout_marginBottom="10dp"
+            android:entries="@array/array_name"
+           android:dropDownSelector="@color/red"
+            android:background="@color/actionbarcolor"
+            android:popupBackground="@color/stripcolor"
+
+            android:spinnerMode="dropdown"
+
+
+            android:prompt="@string/spinner_title"
+            android:layout_toStartOf="@+id/view"
+            android:layout_toLeftOf="@+id/view"></Spinner>
+             <com.joanzapata.iconify.widget.IconButton
+
+
+                 android:layout_width="35dp"
+                 android:layout_height="50dp"
+
+                 android:layout_gravity="center_horizontal"
+
+                 android:background="@color/actionbarcolor"
+                 android:shadowColor="#22000000"
+                 android:text="{fa-chevron-down}"
+                 android:textColor="#ffffff"
+                 android:textSize="15dp"
+                 android:layout_alignBottom="@+id/spinner_empdashboard_actions"
+                 android:layout_alignParentRight="true"
+                 android:layout_alignParentEnd="true"
+                 android:id="@+id/view" />
+         </RelativeLayout>
+
+        <android.support.v7.widget.RecyclerView
+
+            android:id="@+id/epdashboard_recy_listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:clickable="true">
+
+        </android.support.v7.widget.RecyclerView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="6dp"
+            android:ems="6"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/back"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:visibility="visible" />
+
+        <TextView
+            android:id="@+id/home"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="6dp"
+            android:background="#ED6D05"
+            android:ems="6"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/home"
+            android:textColor="#ffffff"
+            android:textSize="15sp"
+            android:visibility="visible" />
+    </LinearLayout>
+
+</LinearLayout>

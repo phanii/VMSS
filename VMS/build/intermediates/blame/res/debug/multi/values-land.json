@@ -1,0 +1,351 @@
+[
+    {
+        "outputFile": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\values-land\\values-land.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 61,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 71,
+                    "endOffset": 184
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 71,
+                        "endOffset": 533
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 189,
+                    "endColumn": 69,
+                    "endOffset": 254
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 722,
+                        "endColumn": 69,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 259,
+                    "endColumn": 63,
+                    "endOffset": 318
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 967,
+                        "endColumn": 63,
+                        "endOffset": 1026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 323,
+                    "endColumn": 70,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1215,
+                        "endColumn": 70,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 67,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1286,
+                        "endColumn": 67,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 54,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 188,
+                        "endColumn": 54,
+                        "endOffset": 238
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 50,
+                    "endOffset": 563
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 243,
+                        "endColumn": 50,
+                        "endOffset": 289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 568,
+                    "endColumn": 49,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 294,
+                        "endColumn": 49,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 46,
+                    "endOffset": 660
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 46,
+                        "endOffset": 386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 665,
+                    "endColumn": 48,
+                    "endOffset": 709
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 391,
+                        "endColumn": 48,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 714,
+                    "endColumn": 48,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 440,
+                        "endColumn": 48,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 56,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 489,
+                        "endColumn": 56,
+                        "endOffset": 541
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 55,
+                    "endOffset": 871
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 546,
+                        "endColumn": 55,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 876,
+                    "endColumn": 54,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 54,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 55,
+                    "endOffset": 982
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 657,
+                        "endColumn": 55,
+                        "endOffset": 708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 987,
+                    "endColumn": 54,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 54,
+                        "endOffset": 763
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1042,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1219
+                },
+                "from": {
+                    "file": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-land\\values-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 401
+                    }
+                }
+            }
+        ]
+    }
+]

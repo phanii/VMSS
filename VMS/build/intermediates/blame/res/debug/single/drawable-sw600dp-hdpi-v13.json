@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-hdpi-v13\\ic_backspace_disabled_dark.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-sw600dp-hdpi\\ic_backspace_disabled_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-hdpi-v13\\ic_backspace_normal_light.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-sw600dp-hdpi\\ic_backspace_normal_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-hdpi-v13\\ic_backspace_normal_dark.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-sw600dp-hdpi\\ic_backspace_normal_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-sw600dp-hdpi-v13\\ic_backspace_disabled_light.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-sw600dp-hdpi\\ic_backspace_disabled_light.png"
+    }
+]

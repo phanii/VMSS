@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view_text.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout-sw600dp\\three_keys_view_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\calendar_date_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout-sw600dp\\calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view_right_drawable.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout-sw600dp\\three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout-sw600dp\\three_keys_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\three_keys_view_leftright.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout-sw600dp\\three_keys_view_leftright.xml"
+    }
+]

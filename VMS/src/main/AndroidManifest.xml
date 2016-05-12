@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.visitormanagementsystem"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="19" />
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".utils.MyApplication"
+        android:allowBackup="true"
+        android:enabled="true"
+        android:icon="@drawable/logo"
+        android:label="i'm smart"
+        android:persistent="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Black.NoTitleBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+<activity android:name=".GDMainActivity"/>
+        <activity android:name=".VMSMainActivity"
+            />
+
+        <activity android:name=".ServicesFragment" />
+        <activity
+            android:name=".QRReader"
+            android:screenOrientation="portrait" />
+
+        <activity
+            android:name="com.ipaulpro.afilechooser.FileChooserActivity"
+            android:enabled="@bool/use_activity"
+            android:exported="true"
+            android:icon="@drawable/ic_chooser"
+            android:label="@string/choose_file">
+            <intent-filter>
+                <action android:name="android.intent.action.GET_CONTENT" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.OPENABLE" />
+
+                <data android:mimeType="*/*" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".utils.CrashActivity"/>
+
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="f03478dac530f6dc50557e8703c373b08f39ac8d" />
+
+        <receiver android:name=".Receiver1">
+            <intent-filter android:priority="1">
+                <action android:name="Fate"></action>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".Receiver2">
+            <intent-filter android:priority="2">
+                <action android:name="Fate"></action>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".Receiver3">
+            <intent-filter android:priority="3">
+                <action android:name="Fate"></action>
+            </intent-filter>
+        </receiver>
+
+    </application>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY" />
+
+</manifest>

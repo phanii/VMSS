@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\time_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout-land-hdpi\\time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\date_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout-land-hdpi\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\expiration_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout-land-hdpi\\expiration_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\number_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout-land-hdpi\\number_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout-land-hdpi-v4\\hms_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout-land-hdpi\\hms_picker_dialog.xml"
+    }
+]

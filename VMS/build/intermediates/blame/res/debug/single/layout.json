@@ -1,0 +1,546 @@
+[
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\steps3.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\steps3.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\change_password.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\change_password.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_appointment2.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\schedule_appointment2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\layout_google_section_icon.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\it.neokree\\GoogleNavigationDrawer\\0.6\\res\\layout\\layout_google_section_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_leftright.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\three_keys_view_leftright.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\new_registration.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\new_registration.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\steps.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\steps.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\recurrencepicker.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\steps_scheduleappointment3.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\steps_scheduleappointment3.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\expiration_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\expiration_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\crashinformationreport.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\crashinformationreport.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_view_animator.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\calendar_date_picker_view_animator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\compviewappt.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\compviewappt.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_with_header.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\keyboard_with_header.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\singletextview.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\singletextview.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vmsmain.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\activity_vmsmain.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker_freq_item.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\recurrencepicker_freq_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_right_drawable.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\keyboard_right_drawable.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\layout_divisor.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\it.neokree\\GoogleNavigationDrawer\\0.6\\res\\layout\\layout_divisor.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_header_view.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\calendar_date_picker_header_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\recy_applist.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\recy_applist.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\appointment_types.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\appointment_types.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\hms_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\hms_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\expiration_picker_view.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\expiration_picker_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\number_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\radial_time_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\radial_time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\edit_profile.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\edit_profile.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_message_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\fragment_message_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\appointment_details.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\appointment_details.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\time_zone_filter_item.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\time_zone_filter_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\officialfragment.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\officialfragment.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\radial_time_header_label.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\radial_time_header_label.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\calendar_date_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\steps_scheduleappointment1.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\steps_scheduleappointment1.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\empty_time_zone_item.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\empty_time_zone_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\view_appointment_listitem.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\view_appointment_listitem.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\layout_ok_cancel_buttons.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\layout_ok_cancel_buttons.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\schedule_appointment.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\schedule_appointment.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\employee_dashboard.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\employee_dashboard.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\sp_selectquestion.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\sp_selectquestion.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_date_picker_selected_date.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\calendar_date_picker_selected_date.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_text_with_header.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\keyboard_text_with_header.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\number_picker_view.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\number_picker_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\date_picker_view.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\date_picker_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker_view.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\time_picker_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\approve_reject.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\approve_reject.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_text.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\keyboard_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\recurrencepicker_end_text.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\recurrencepicker_end_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\window_title.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\window_title.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\activate_your_account.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\activate_your_account.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\completed_appointments.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\completed_appointments.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\keyboard.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_text.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\three_keys_view_text.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\time_picker_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\time_picker_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\calendar_year_label_text_view.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\calendar_year_label_text_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\time_zone_item.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\time_zone_item.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\my_profile.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\my_profile.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\employee_dashboard_listitem.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\employee_dashboard_listitem.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\steps2.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\steps2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\custome_toast.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\custome_toast.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\rejected_appoinrments.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\rejected_appoinrments.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\timezonepickerview.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\timezonepickerview.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\official_info.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\official_info.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\create_your_account.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\create_your_account.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\register_new_user.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\register_new_user.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\file.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\DailyNickle\\aFileChooser\\unspecified\\res\\layout\\file.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\keyboard_right_drawable_with_header.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\keyboard_right_drawable_with_header.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\view_appointment_history.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\view_appointment_history.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_decoder.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\activity_decoder.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\forgot_password.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\forgot_password.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view_right_drawable.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\three_keys_view_right_drawable.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\servicesfragment.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\servicesfragment.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\view_appointment.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\view_appointment.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\layout_google_section.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\it.neokree\\GoogleNavigationDrawer\\0.6\\res\\layout\\layout_google_section.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_format_selector_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\fragment_format_selector_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_camera_selector_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\fragment_camera_selector_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\three_keys_view.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\three_keys_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\my_appointments.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\my_appointments.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\activity_google_navigation_drawer.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\it.neokree\\GoogleNavigationDrawer\\0.6\\res\\layout\\activity_google_navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\custom_slide_listitem.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\custom_slide_listitem.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\layout_drawer.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\it.neokree\\GoogleNavigationDrawer\\0.6\\res\\layout\\layout_drawer.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\example.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\example.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\custom_alert_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\custom_alert_dialog.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\hms_picker_view.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\layout\\hms_picker_view.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\steps_scheduleappointment2.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\steps_scheduleappointment2.xml"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\layout\\security_custom_alert_dialog.xml",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\layout\\security_custom_alert_dialog.xml"
+    }
+]

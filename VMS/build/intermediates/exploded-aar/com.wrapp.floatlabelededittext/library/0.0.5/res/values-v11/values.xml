@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Volumes/wrapp/src/floatlabelededittext/library/res/values-v11/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="flet_hint_margin">-7dp</dimen>
+    <dimen name="flet_hint_text_padding_horizontal">13dp</dimen>
+    <dimen name="flet_hint_text_size">11sp</dimen>
+
+</resources>

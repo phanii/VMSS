@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/neokree/Progetti/AndroidStudioProjects/GoogleNavigationDrawerLibrary/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="statusMargin">0dp</dimen>
+    <!-- From: file:/Users/neokree/Progetti/AndroidStudioProjects/GoogleNavigationDrawerLibrary/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="nothing"/>
+    <!-- From: file:/Users/neokree/Progetti/AndroidStudioProjects/GoogleNavigationDrawerLibrary/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="GoogleNavigationDrawerTheme" parent="Theme.AppCompat.NoActionBar">
+
+    </style>
+    <style name="GoogleNavigationDrawerTheme.Light" parent="Theme.AppCompat.Light.NoActionBar">
+
+    </style>
+    <style name="GoogleNavigationDrawerTheme.Light.DarkActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="theme">@style/ThemeOverlay.AppCompat.Dark.ActionBar</item>
+        <item name="popupTheme">@style/Base.V21.Theme.AppCompat.Light.Dialog</item>
+    </style>
+</resources>

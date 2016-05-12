@@ -1,0 +1,542 @@
+[
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\employee_dashboard.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\employee_dashboard.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_search_holo_light.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\ic_search_holo_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_bg_focused_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\switch_bg_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_focused_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right_arrow2.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\right_arrow2.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\right_arrow.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\right_arrow.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\log_off.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\log_off.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\homeicon_slide.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\homeicon_slide.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\approved.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\approved.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\registration_slider.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\registration_slider.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_full_holo_dark.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\dialog_full_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\googleplus.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\googleplus.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\appointment.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\appointment.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo2.jpg",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\photo2.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sliderleft.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\sliderleft.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slider_state1.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\slider_state1.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_thumb_activated_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\switch_thumb_activated_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slider_lines.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\slider_lines.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\profile.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_pressed_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\spinner_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step1.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\step1.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_round.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\profile_round.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sidebar_bg.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\sidebar_bg.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_recurrence_bubble_outline.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\ic_recurrence_bubble_outline.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\security.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\security.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vms_splash.jpg",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\vms_splash.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step2.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\step2.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go_back.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\go_back.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_hotel_grey600_24dp.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\it.neokree\\GoogleNavigationDrawer\\0.6\\res\\drawable-hdpi-v4\\ic_hotel_grey600_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_default_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_activated_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\textfield_activated_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chooser.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\DailyNickle\\aFileChooser\\unspecified\\res\\drawable-hdpi-v4\\ic_chooser.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step3.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\step3.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tobeapproved.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\tobeapproved.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_file.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\DailyNickle\\aFileChooser\\unspecified\\res\\drawable-hdpi-v4\\ic_file.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\upload4.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\upload4.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_green3.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\step_green3.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_provider.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\DailyNickle\\aFileChooser\\unspecified\\res\\drawable-hdpi-v4\\ic_provider.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_mic_white_24dp.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\it.neokree\\GoogleNavigationDrawer\\0.6\\res\\drawable-hdpi-v4\\ic_mic_white_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ft_logo2.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\ft_logo2.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_recurrence_bubble_outline_disabled.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\ic_recurrence_bubble_outline_disabled.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\photo.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo_1.jpg",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\photo_1.jpg"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\down1.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\down1.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attachproof.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\attachproof.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_green2.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\step_green2.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back_icon.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\back_icon.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attachproof3.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\attachproof3.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slider_state2.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\slider_state2.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_full_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\dialog_full_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_bg_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\switch_bg_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_thumb_pressed_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\switch_thumb_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\profile_slider.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\profile_slider.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_disabled_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\spinner_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_backspace_normal_light.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\ic_backspace_normal_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_thumb_disabled_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\switch_thumb_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rejected.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\rejected.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_thumb_holo_light_v2.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\switch_thumb_holo_light_v2.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\vms_splash2.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\vms_splash2.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\attachproof2.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\attachproof2.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_settings_black_24dp.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\it.neokree\\GoogleNavigationDrawer\\0.6\\res\\drawable-hdpi-v4\\ic_settings_black_24dp.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ft_logo.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\ft_logo.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\twitter.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\twitter.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orange_arrows.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\orange_arrows.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\facebook.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\facebook.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_backspace_normal_dark.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\ic_backspace_normal_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\slider_state3.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\slider_state3.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_default_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\spinner_default_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\date_picker.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\date_picker.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo4.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\photo4.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\switch_bg_disabled_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\switch_bg_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\linkedin.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\linkedin.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_clear_search_holo_light.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\ic_clear_search_holo_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_backspace_disabled_light.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\ic_backspace_disabled_light.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\step_green1.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\step_green1.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_folder.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\DailyNickle\\aFileChooser\\unspecified\\res\\drawable-hdpi-v4\\ic_folder.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\home_slider.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\home_slider.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\administration.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\administration.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\completed.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\completed.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\marca_back.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\marca_back.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_backspace_disabled_dark.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\ic_backspace_disabled_dark.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\upload.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\upload.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_disabled_focused_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_recurrence_bubble_disabled.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\ic_recurrence_bubble_disabled.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\photo3.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\photo3.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_recurrence_bubble_fill.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\ic_recurrence_bubble_fill.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\spinner_focused_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\spinner_focused_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\textfield_disabled_holo_light.9.png",
+        "source": "D:\\Projects\\DailyNickle\\VMS\\build\\intermediates\\exploded-aar\\com.code-troopers.betterpickers\\library\\2.2.1\\res\\drawable-hdpi\\textfield_disabled_holo_light.9.png"
+    }
+]

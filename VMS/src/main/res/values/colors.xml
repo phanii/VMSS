@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darktext">#272727</color>
+    <color name="lighttext">#787878</color>
+    <color name="socilnetworkingicons">#D8D8D8</color>
+    <color name="colorAccent">#EEEEEE</color>
+
+    <color name="focused">#ff5500</color>
+    <color name="selected">#FF00FF</color>
+    <color name="menubgcolor">#FFDCC3</color>
+    <color name="green">#8BC34A</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff8080</color>
+    <color name="white">#ffffff</color>
+    <color name="dark_gray">#D3D3D3</color>
+    <color name="light_light_gray">#e8e8e7</color>
+    <color name="stripcolor">#25408F</color>
+    <color name="stricolor_light">#d7dff4</color>
+    <color name="orange_btn_color">#ED6D05</color>
+    <color name="actionbarcolor">#5d7bd5</color>
+
+</resources>

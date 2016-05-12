@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="280dp"
+    android:layout_height="250dp"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    android:paddingLeft="4dp"
+    android:paddingRight="4dp"
+    android:paddingTop="10dp">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginBottom="1dp"
+        android:background="#95c11f"
+        android:gravity="center"
+        android:padding="12dp"
+        android:text="Security"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#ffffff"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:background="#e8e8e7" />
+
+    <TextView
+        android:id="@+id/validateAppointment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:background="#e8e8e7"
+        android:gravity="left"
+        android:padding="5dp"
+        android:text="Validate Appointment"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000" />
+    <!-- android:background="#c0c0c0" -->
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#ffffff" />
+
+    <TextView
+        android:id="@+id/gatePass"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#e8e8e7"
+        android:gravity="left"
+        android:padding="5dp"
+        android:text="Gate Pass"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000" />
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:background="#ffffff" />
+
+    <TextView
+        android:id="@+id/onBehalfAppointment"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:background="#e8e8e7"
+        android:gravity="left"
+        android:padding="5dp"
+        android:text="On Behalf Appointment"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000" />
+    <!--  <View
+         android:layout_width="fill_parent"
+         android:layout_height="1dp"
+         android:layout_marginTop="10dp"
+         android:background="#e8e8e7" /> -->
+
+    <TextView
+        android:id="@+id/dialogButtonOK"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center"
+        android:padding="3dp"
+        android:text="Go Back"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000" />
+
+</LinearLayout>
+
+
+    <!-- <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/validateAppointment"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/dialogButtonOK"
+            android:layout_gravity="center"
+            android:gravity="center_horizontal"
+            android:padding="5dp"
+            android:background="#95c11f"
+            android:textColor="#ffffff"
+            android:text="Validate Appointment"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        android:background="#c0c0c0"
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="#e8e8e7" />
+
+        <TextView
+            android:id="@+id/gatePass"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/dialogButtonOK"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:background="#95c11f"
+            android:text="Gate Pass"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="#e8e8e7" />
+
+        <TextView
+            android:id="@+id/onBehalfAppointment"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/dialogButtonOK"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center_horizontal"
+            android:textColor="#ffffff"
+            android:padding="5dp"
+            android:background="#95c11f"
+            android:text="On Behalf Appointment"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="#e8e8e7" />
+
+        <Button
+            android:id="@+id/dialogButtonOK"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:textColor="#ffffff"
+            android:background="#95c11f"
+            android:padding="3dp"
+            android:text=" Ok "
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    </LinearLayout> -->

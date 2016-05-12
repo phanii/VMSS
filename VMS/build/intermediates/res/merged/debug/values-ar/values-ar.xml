@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s، %2$s، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="accountactivation">تفعيل الحساب</string>
+    <string name="act_resch">resch</string>
+    <string name="action_cancel">إلغاء{fa-close}</string>
+    <string name="action_edit">تحرير {fa-pencil-square-o} </string>
+    <string name="action_reschedule">{ fa-repeat} إعادة جدولة</string>
+    <string name="action_settings">إعدادات</string>
+    <string name="activate_account">تفعيل الحساب</string>
+    <string name="app_name">نظام إدارة الزوار</string>
+    <string name="appointmentwith">موعد مع</string>
+    <string name="approve">{fa-check} يوافقون على</string>
+    <string name="approvedate">الموافقة على التسجيل</string>
+    <string name="approvedby">التي وافقت عليها</string>
+    <string name="apptdetails">تفاصيل التعيين</string>
+    <string name="appts">تعيينات</string>
+    <string name="apptstatus">حالة التعيين</string>
+    <string name="attachmentimage">{fa-paperclip}</string>
+    <string name="attachproof">إرفاق إثبات</string>
+    <string name="back">الى الخلف</string>
+    <string name="cancel_button">إلغاء</string>
+    <string name="choose_formats">اختيار الأشكال</string>
+    <string name="chooser_title">حدد ملف</string>
+    <string name="comments">تعليقات</string>
+    <string name="compname">اسم الشركة</string>
+    <string name="con_cancel">إلغاء</string>
+    <string name="con_reschedule">إعادة جدولة</string>
+    <string name="confirm">تأكيد</string>
+    <string name="confirmpwd">تأكيد كلمة السر*</string>
+    <string name="conmentshint">إدخال تعليقات</string>
+    <string name="contactdetails">تفاصيل الاتصال</string>
+    <string name="cptappts">تعيينات الانتهاء</string>
+    <string name="createyouraccount">أنشئ حسابك</string>
+    <string name="dashboard">لوحة أجهزة القياس</string>
+    <string name="date">التاريخ</string>
+    <string name="days">أيام</string>
+    <string name="dayshint">أيام)</string>
+    <string name="desg">تسمية</string>
+    <string name="details">تفاصيل</string>
+    <string name="dob">تاريخ الميلاد</string>
+    <string name="duration">مدة ></string>
+    <string name="editprofile">تعديل الملف الشخصي</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="empapproval">الموافقة موظف</string>
+    <string name="empdashboard">بلدي لوحة</string>
+    <string name="empfullname">الموظف الاسم *</string>
+    <string name="empid">هوية الموظف</string>
+    <string name="empname">اسم الموظف</string>
+    <string name="endtime">نهاية الوقت></string>
+    <string name="endtime2">نهاية الوقت</string>
+    <string name="enterapwd">كلمة المرور</string>
+    <string name="enteremailid">أدخل عنوان بريدك الإلكتروني</string>
+    <string name="enterregemail">أدخل عنوان البريد الإلكتروني المسجل لدينا *</string>
+    <string name="every">كل ></string>
+    <string name="every_"> من كل</string>
+    <string name="exit">خروج ؟</string>
+    <string name="fa_confirm">{fa-check-circle} تأكيد</string>
+    <string name="fa_editprofile">{fa-pencil-square-o} تعديل الملف الشخصي</string>
+    <string name="fa_home">{fa-home} الرئيسية</string>
+    <string name="fa_submit">{fa-check} إرسال</string>
+    <string name="female">أنثى</string>
+    <string name="firstcarcolor">ما هو أول لون سيارتك</string>
+    <string name="firstfulltimejob">في ما البلدة أو المدينة كان أول وظيفة بدوام كامل؟</string>
+    <string name="forgotpwd">هل نسيت كلمة المرور؟</string>
+    <string name="forgotpwd_header">هل نسيت كلمة المرور</string>
+    <string name="friday">الجمعة</string>
+    <string name="fullname">الاسم الكامل</string>
+    <string name="gender">جنس</string>
+    <string name="goback">ارجع</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hint_cmpname">اسم الشركة</string>
+    <string name="hint_desg">التعيين</string>
+    <string name="hint_dob">تاريخ الميلاد</string>
+    <string name="hint_empid">هوية الموظف</string>
+    <string name="hint_firstname">الاسم الأول*</string>
+    <string name="hint_hrs">ساعة (ق)</string>
+    <string name="hint_idno">رقم الهوية</string>
+    <string name="hint_land">الهاتف الثابت / تحويلة #</string>
+    <string name="hint_lastname">الاسم الاخير*</string>
+    <string name="hint_middlename">الاسم الاوسط</string>
+    <string name="hint_mob">التليفون المحمول# *</string>
+    <string name="hint_oldpwd">كلمة المرور القديمة*</string>
+    <string name="hint_personal_belong">المتعلقات الشخصية إن وجدت (على سبيل المثال. أجهزة الكمبيوتر المحمول، طابعة الخ ...)</string>
+    <string name="hint_prereq">المتطلبات الأساسية إن وجدت (على سبيل المثال. كاميرا ويب، وطابعة، العارض الخ ...)</string>
+    <string name="hint_select_cat">اختر الفئة</string>
+    <string name="hint_visano">زيارة عدد التأشيرات</string>
+    <string name="hint_workpermitno">العمل عدد تصريح *</string>
+    <string name="hintcomments">إدخال تعليقات</string>
+    <string name="hintemailadd">عنوان البريد الإلكتروني *</string>
+    <string name="home">الصفحة الرئيسية</string>
+    <string name="hrshint">ساعة (ق )</string>
+    <string name="icon_heart">. تسجيل الدخول</string>
+    <string name="idnum">رقم الهوية</string>
+    <string name="idtype">نوع الهوية</string>
+    <string name="important">*</string>
+    <string name="lan_arabic">العربية</string>
+    <string name="lan_english">english</string>
+    <string name="landno">الهاتف الثابت / تحويلة #</string>
+    <string name="landphoneno">الهاتف الثابت / تحويلة #</string>
+    <string name="loading">تحميل...</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="login1">{fa-hand-o-right}تسجيل الدخول</string>
+    <string name="loginwith">تسجيل الدخول مع</string>
+    <string name="male">ذكر</string>
+    <string name="meetitngwith">لقاء مع</string>
+    <string name="mobno">رقم الهاتف</string>
+    <string name="monday">الإثنين</string>
+    <string name="months">الشهر (s )</string>
+    <string name="msg_appointmentupdated">"تم تحديث تعيين !!!"</string>
+    <string name="msg_changelanguage">غير اللغة</string>
+    <string name="msg_noappointmentsfound">"لا تعيينات العثور !!"</string>
+    <string name="msg_validdate">لا ينبغي أن يكون تاريخ أقل من التاريخ الحالي</string>
+    <string name="myappts">بلدي تعيينات</string>
+    <string name="nationality">جنسية</string>
+    <string name="nav_admin">إدارة</string>
+    <string name="nav_appoinment">موعد</string>
+    <string name="nav_changepwd">تغيير كلمة السر</string>
+    <string name="nav_dashboard">لوحة أجهزة القياس</string>
+    <string name="nav_list">قائمة</string>
+    <string name="nav_logoff">إطفاء</string>
+    <string name="nav_qr">الاستجابة</string>
+    <string name="nav_registration">التسجيل</string>
+    <string name="nav_security">أمن</string>
+    <string name="newappointment">موعد جديد</string>
+    <string name="newpwd">كلمة المرور الجديدة*</string>
+    <string name="next">التالى{fa-arrow-right}</string>
+    <string name="no">لا</string>
+    <string name="nodatafoundtodisplay">لا توجد بيانات لعرضها !!</string>
+    <string name="of"> من</string>
+    <string name="officedetails">تفاصيل رسمية</string>
+    <string name="officialinfo">معلومات رسمية</string>
+    <string name="ok_button">حسنا</string>
+    <string name="personal">الشخصية</string>
+    <string name="personaldetails">تفاصيل شخصية</string>
+    <string name="please_wait_progress">أرجو الإنتظار...</string>
+    <string name="powredby">مدعوم من</string>
+    <string name="previous">السابق</string>
+    <string name="previous1">{fa-arrow-left}السابق</string>
+    <string name="profileupdated">تجديد !!</string>
+    <string name="providerans">تقديم إجابتك</string>
+    <string name="provideyourans">تقديم إجابتك</string>
+    <string name="pwd">كلمة المرور *</string>
+    <string name="radio_female">أنثى</string>
+    <string name="radio_male">ذكر</string>
+    <string name="rec_appt">موعد متكرر</string>
+    <string name="rec_patrn">نمط متكرر</string>
+    <string name="register">تسجيل كمستخدم جديد</string>
+    <string name="registeredemail">أدخل عنوان البريد الإلكتروني المسجل لدينا *</string>
+    <string name="registration">التسجيل</string>
+    <string name="registrationform">استمارة التسجيل</string>
+    <string name="reject">{fa-close} رفض</string>
+    <string name="reset">إعادة تعيين</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="satday">يوم السبت</string>
+    <string name="save">حفظ</string>
+    <string name="savechanges">حفظ التغيرات</string>
+    <string name="sch_appt">تحديد موعد</string>
+    <string name="schanappt">ترتيب موعد</string>
+    <string name="schappt">{fa-calendar}تحديد موعد</string>
+    <string name="schedule">جدول</string>
+    <string name="sectorcategory">قطاع الفئة</string>
+    <string name="select_camera">الة تصوير</string>
+    <string name="selectapptdate">حدد تاريخ الموعد</string>
+    <string name="selectasecurityquestion">اختر سؤال امان</string>
+    <string name="selectdate">"حدد تاريخا صالحا !!"</string>
+    <string name="selectquestion">اختر سؤال امان</string>
+    <string name="sendemail">ارسل ايميل</string>
+    <string name="spinner_title">اختر الفئة</string>
+    <string name="splash_vms">نظام إدارة الزوار</string>
+    <string name="starttime">بداية الوقت></string>
+    <string name="starttime1">وقت البدء</string>
+    <string name="status_approved">وافق</string>
+    <string name="status_attended">حضر</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="status_cancelled">تم الالغاء</string>
+    <string name="status_expired">منتهي الصلاحيه</string>
+    <string name="status_inprogress">في تَقَدم</string>
+    <string name="status_notattended">لم يحضر</string>
+    <string name="status_pending">بانتظار</string>
+    <string name="status_peopleoverstay">الناس أكثر من البقاء</string>
+    <string name="status_rejected">مرفوض</string>
+    <string name="status_save">حفظ</string>
+    <string name="status_tobeapproved">أن تتم الموافقة</string>
+    <string name="status_todays">اليوم</string>
+    <string name="status_todayscheckin">اليوم إيداعه</string>
+    <string name="status_todayscheckout">اليوم المسحوبة</string>
+    <string name="strip_officialinfo">معلومات رسمية</string>
+    <string name="strip_otherinfo">معلومات أخرى</string>
+    <string name="strip_userdetails">تفاصيل المستعمل</string>
+    <string name="submit">ترسل أي</string>
+    <string name="sunday">الأحد</string>
+    <string name="the">ال</string>
+    <string name="thursday">الخميس</string>
+    <string name="timehint">وقت</string>
+    <string name="tobeapprovedappts">إلى أن المواعيد المعتمدة</string>
+    <string name="tryagain">حاول ثانية !!</string>
+    <string name="tuesday">الثلاثاء</string>
+    <string name="userdetails">تفاصيل المستعمل</string>
+    <string name="userid">هوية المستخدم*</string>
+    <string name="viewappts">عرض المواعيد</string>
+    <string name="visitvisanum">زيارة عدد التأشيرات</string>
+    <string name="vms">نظام إدارة الزوار</string>
+    <string name="wanttoexit">هل تريد حقا للخروج؟</string>
+    <string name="wednesday">الأربعاء</string>
+    <string name="welcome">أهلا بك</string>
+    <string name="welcometovms">مرحبا بكم في VMS</string>
+    <string name="workpermitnum">تصريح العمل عدد</string>
+    <string name="yes">نعم فعلا</string>
+</resources>

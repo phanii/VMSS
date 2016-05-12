@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_light_gray"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/context_title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:background="@color/actionbarcolor"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="7"
+
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/newappointment"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <ImageView
+
+            android:id="@+id/back"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="@android:drawable/ic_menu_revert" />
+    </LinearLayout>
+
+    <include layout="@layout/window_title" />
+
+    <include layout="@layout/steps_scheduleappointment2" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:background="#e8e8e7"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:background="@color/stripcolor"
+                android:padding="5dp"
+                android:text="@string/appointmentwith"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+
+            <EditText
+                android:singleLine="true"
+                android:id="@+id/sch2_firstName"
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="6dp"
+                android:layout_weight="1"
+                android:background="#f3f3f3"
+                android:hint="@string/hint_empid"
+                android:paddingLeft="5dp"
+
+                android:textCursorDrawable="@drawable/custome_edittext_cursorcolor"
+                android:textSize="13dp"></EditText>
+
+            <EditText
+                android:singleLine="true"
+                android:id="@+id/sch2_middleName"
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="6dp"
+                android:layout_weight="1"
+                android:background="#f3f3f3"
+                android:hint="@string/empfullname"
+                android:paddingLeft="5dp"
+
+                android:textCursorDrawable="@drawable/custome_edittext_cursorcolor"
+                android:textSize="13dp"></EditText>
+
+            <Spinner
+                android:id="@+id/sch2_deptName"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="6dp"
+                android:layout_weight="1"
+                android:popupBackground="@color/stripcolor"
+                android:spinnerMode="dropdown"
+
+                android:drawableRight="@drawable/down1" />
+
+            <Spinner
+                android:popupBackground="@color/stripcolor"
+                android:spinnerMode="dropdown"
+
+                android:id="@+id/sch2_subDeptName"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="6dp"
+                android:layout_weight="1" />
+
+            <EditText
+                android:singleLine="true"
+                android:id="@+id/sch2_mobNo"
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="6dp"
+                android:layout_weight="1"
+                android:background="#f3f3f3"
+                android:ems="7"
+                android:hint="@string/hint_mob"
+                android:inputType="number"
+                android:maxLength="10"
+
+                android:paddingLeft="5dp"
+                android:textCursorDrawable="@drawable/custome_edittext_cursorcolor"
+
+                android:textSize="13dp"></EditText>
+
+            <EditText
+                android:singleLine="true"
+                android:id="@+id/sch2_landlineNo"
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="6dp"
+                android:layout_weight="1"
+                android:background="#f3f3f3"
+                android:ems="7"
+                android:hint="@string/hint_land"
+                android:inputType="number"
+                android:textCursorDrawable="@drawable/custome_edittext_cursorcolor"
+                android:paddingLeft="5dp"
+                android:textSize="13dp"></EditText>
+
+            <EditText
+                android:singleLine="true"
+                android:id="@+id/sch2_eamil"
+                android:layout_width="fill_parent"
+                android:layout_height="30dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="6dp"
+                android:layout_weight="1"
+                android:background="#f3f3f3"
+                android:hint="@string/hintemailadd"
+                android:paddingLeft="5dp"
+                android:textCursorDrawable="@drawable/custome_edittext_cursorcolor"
+
+                android:textSize="13dp"></EditText>
+
+            <Spinner
+                android:popupBackground="@color/stripcolor"
+                android:spinnerMode="dropdown"
+
+                android:id="@+id/sch2_reasonForVisit"
+                android:layout_width="fill_parent"
+                android:layout_height="45dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="6dp"
+                android:layout_weight="1" />
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="match_parent"
+                android:background="@color/light_light_gray"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_weight="1"
+                    android:background="@color/stripcolor"
+                    android:padding="5dp"
+                    android:text="@string/strip_otherinfo"
+                    android:textColor="@color/white"
+                    android:textSize="15sp" />
+
+                <EditText
+                    android:singleLine="true"
+                    android:id="@+id/sch2_othinfo1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_weight="1"
+                    android:background="#f3f3f3"
+                    android:gravity="top"
+                    android:textCursorDrawable="@drawable/custome_edittext_cursorcolor"
+                    android:hint="@string/hint_personal_belong"
+                    android:paddingLeft="5dp"
+                    android:textSize="13dp"></EditText>
+
+                <EditText
+                    android:singleLine="true"
+                    android:id="@+id/sch2_othinfo2"
+                    android:layout_width="fill_parent"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:layout_marginTop="6dp"
+                    android:layout_weight="1"
+                    android:background="#f3f3f3"
+                    android:gravity="top"
+                    android:hint="@string/hint_prereq"
+                    android:paddingLeft="5dp"
+                    android:textCursorDrawable="@drawable/custome_edittext_cursorcolor"
+                    android:textSize="13dp"></EditText>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:orientation="horizontal">
+
+                <com.joanzapata.iconify.widget.IconTextView
+                    android:id="@+id/home"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginTop="6dp"
+                    android:background="@color/orange_btn_color"
+                    android:ems="6"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="@string/previous1"
+                    android:textColor="@color/white"
+                    android:textSize="15sp" />
+
+                <com.joanzapata.iconify.widget.IconTextView
+                    android:id="@+id/next"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="6dp"
+                    android:background="@color/orange_btn_color"
+                    android:ems="6"
+                    android:gravity="center"
+                    android:padding="5dp"
+                    android:text="@string/next"
+                    android:textColor="@color/white"
+                    android:textSize="15sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

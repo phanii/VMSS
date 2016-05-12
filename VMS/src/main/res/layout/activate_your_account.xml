@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_light_gray"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/context_title_bar"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:background="@color/actionbarcolor"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="7"
+
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Forgot Password"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <ImageView
+
+            android:id="@+id/back"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_marginRight="2dp"
+            android:layout_weight="1"
+            android:background="@android:drawable/ic_menu_revert" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="#e8e8e7"
+        android:orientation="vertical">
+
+        <!--
+             <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="3dp"
+            android:background="#f3f3f3"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Account Activation"
+            android:textSize="16sp" />
+        -->
+
+
+        <EditText
+            android:singleLine="true"
+            android:id="@+id/eMail"
+            android:layout_width="fill_parent"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="10dp"
+            android:background="#f3f3f3"
+            android:hint="@string/registeredemail"
+            android:paddingLeft="5dp"
+            android:textCursorDrawable="@drawable/custome_edittext_cursorcolor"
+            android:textSize="13dp"></EditText>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal">
+
+            <com.joanzapata.iconify.widget.IconTextView
+                android:id="@+id/sendMail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/orange_btn_color"
+                android:ems="6"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/sendemail"
+                android:textColor="@color/white"
+                android:textSize="15sp" />
+
+            <com.joanzapata.iconify.widget.IconTextView
+                android:id="@+id/home"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="10dp"
+                android:background="@color/orange_btn_color"
+                android:ems="6"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="@string/fa_home"
+                android:textColor="@color/white"
+                android:textSize="15sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="100dp">
+
+    <android.support.v7.widget.CardView
+        android:id="@+id/item_card_view"
+        android:layout_width="fill_parent"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+
+
+        card_view:cardCornerRadius="8dp"
+        card_view:contentPadding="4dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <!-- icon -->
+            <ImageView
+                android:id="@+id/row_thumbnail"
+                android:layout_width="75dp"
+                android:layout_height="75dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:contentDescription="icon"
+                android:padding="2dp"
+                android:src="@drawable/ic_launcher" />
+
+            <!-- title -->
+
+            <RelativeLayout
+                android:id="@+id/item_rl"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="90dp">
+
+                <TextView
+                    android:id="@+id/row_email"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+
+                    android:padding="4dp"
+                    android:text="holdername"
+                    android:textColor="@android:color/black"
+                    android:textSize="14dp" />
+
+                <TextView
+                    android:id="@+id/row_phone"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/row_email"
+                    android:layout_alignStart="@+id/row_email"
+                    android:layout_below="@+id/row_email"
+                    android:padding="4dp"
+                    android:text="holderphone"
+                    android:textColor="@android:color/black" />
+
+                <TextView
+                    android:id="@+id/row_name"
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignLeft="@+id/row_email"
+                    android:layout_alignStart="@+id/row_email"
+                    android:layout_below="@+id/row_phone"
+
+                    android:padding="4dp"
+                    android:text="holderemail"
+                    android:textColor="@android:color/black" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>
