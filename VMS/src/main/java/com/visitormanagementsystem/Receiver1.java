@@ -14,7 +14,7 @@ public class Receiver1 extends BroadcastReceiver {
     public void onReceive(Context context, Intent intent) {
         String res = getResultData();
 
-        VMSConstants.mylog("Receiver1" + res);
+        VMSConstants.mylog("Receiver1 yar" + res);
 
 
 
